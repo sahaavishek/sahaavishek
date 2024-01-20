@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avishek Saha
 ====================================================================================================================================
+![Avishek](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBqbnRyeml6cjFrOWdwMnlnZ3BmZWg3cGZ5andtdnlmd29sOXVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Novice Programmer
 -----------------
